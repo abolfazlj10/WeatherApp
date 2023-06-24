@@ -1,0 +1,203 @@
+@media screen and (max-width:600px) {
+    .cadrApp {
+        width: 491px;
+    }  
+}
+@media screen and (max-width:518px) {
+    .cadrApp {
+        width: 457px;
+    }  
+    .autoCom {
+        max-height: 156px;
+    }
+}
+@media screen and (max-width:480px) {
+    body{
+        font-size: 17px;
+    }
+    .cadrApp {
+        width: 429px;
+    }
+    .InputCity input::placeholder{
+        font-size: 14px;
+    }
+    .InputCity input {
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:450px) {
+    body{
+        font-size: 14px;
+    }
+    .InputCity input::placeholder{
+        font-size: 13px;
+    }
+    .InputCity input:focus::placeholder{
+        font-size: 12px;
+    }
+    .IconSearch{
+        font-size: 18px;
+    }
+    .cadrApp {
+        width: 387px;
+    }
+    .btnC button {
+        font-size: 16px;
+    }
+    .btnF button {
+        font-size: 16px;
+    }
+    .autoCom div {
+        height: 38px;
+    }
+    .autoCom {
+        max-height: 148px;
+    }
+}
+@media screen and (max-width:408px) {
+    .cadrApp {
+        width: 364px;
+        height: 328px;
+    }
+    body{
+        font-size: 14px;
+    }
+    .InputCity input::placeholder{
+        font-size: 12px;
+    }
+    .InputCity input:focus::placeholder{
+        font-size: 11px;
+    }
+}
+@media screen and (max-width:382px) {
+    .cadrApp {
+        width: 349px;
+        height: 300px;
+    }
+    body{
+        font-size: 13px;
+    }
+    .InputCity input {
+        width: 75%;
+    }
+    .autoCom div {
+        height: 38px;
+    }
+    .InputCity input::placeholder{
+        font-size: 11px;
+    }
+    .InputCity input:focus::placeholder{
+        font-size: 10px;
+    }
+}
+@media screen and (max-width:362px) {
+    .cadrApp {
+        width: 330px;
+        height: 277px;
+    }
+    .InputCity input::placeholder{
+        font-size: 10px;
+    }
+    .InputCity input:focus::placeholder{
+        font-size: 9px;
+    }
+    .autoCom div {
+        height: 33px;
+    }
+    .autoCom {
+        max-height: 126px;
+    }
+    
+}
+@media screen and (max-width:342px) {
+    .cadrApp {
+        width: 311px;
+        height: 258px;
+    }
+    body {
+        font-size: 11px;
+    }
+    .IconSearch {
+        font-size: 15px;
+    }
+    .InputCity input {
+        font-size: 15px;
+    }
+    .InputCity input::placeholder{
+        font-size: 9px;
+    }
+    .InputCity input:focus::placeholder{
+        font-size: 8px;
+    }
+    .autoCom div {
+        height: 31px;
+    }
+    .autoCom {
+        max-height: 118px;
+    }
+}
+@media screen and (max-width:320px) {
+    .cadrApp {
+        width: 289px;
+        height: 248px;
+    }
+    .InputCity input::placeholder{
+        font-size: 8px;
+    }
+    .InputCity input:focus::placeholder{
+        font-size: 7px;
+    }
+    body {
+        font-size: 12px;
+    }
+    .btnC button {
+        font-size: 13px;
+    }
+    .btnF button {
+        font-size: 13px;
+    }
+    .autoCom div {
+        height: 34px;
+    }
+
+}
+@media screen and (max-width:319px) {
+    .cadrApp {
+        width: 268px;
+        height: 226px;
+    }
+    body {
+        font-size: 10px;
+    }
+    .btnC button {
+        font-size: 12px;
+    }
+    .btnF button {
+        font-size: 12px;
+    }
+    .InputCity input::placeholder{
+        font-size: 8px;
+    }
+    .InputCity input:focus::placeholder{
+        font-size: 7px;
+    }
+    .IconSearch {
+        font-size: 13px;
+    }
+    .InputCity input {
+        font-size: 14px;
+    }
+    .autoCom div {
+        height: 30px;
+    }
+    .IconSearch {
+        font-size: 12.2px;
+    }
+}
+@media screen and (min-height:341px) {
+    body{
+        align-items: center;
+        margin-top: 0;
+    }
+    
+}
